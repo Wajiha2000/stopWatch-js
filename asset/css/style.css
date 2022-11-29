@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-size: 50px;
+    background-color: bisque;
+}
+
+.stopWatch {
+    color: red;
+}
+
+.btn {
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+.btn:hover{
+    border: none;
+    background-color: orange;
+    transition: 1.5s;
+    padding: 22px;
+}
